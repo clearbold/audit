@@ -138,4 +138,4 @@ class Audit_mcp {
 // END CLASS
 
 /* End of file mcp.module_name.php */
-/* Location: ./system/expressionengine/third_party/modules/module_name/mcp.module_name.php */
+/* Location: ./system/expressionengine/third_party/modules/audit/mcp.audit.php */
